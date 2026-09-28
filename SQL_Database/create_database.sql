@@ -1,0 +1,2 @@
+CREATE DATABASE vehicle_rental_management;
+use vehicle_rental_management;
